@@ -1,9 +1,10 @@
 <head>
-	<title>About Us</title>
+	<title>User</title>
 </head>
 
 <div>
-	<h1>About Us</h1>
+	<h1>Profile</h1>
+	<h2>Name: [Name]</h2>
 </div>
 
 <style>
